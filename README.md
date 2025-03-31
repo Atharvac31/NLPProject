@@ -18,3 +18,20 @@ By employing TF-IDF vectorization for text representation and Cosine Similarity 
 This lightweight yet effective NLP approach ensures a fast and scalable recruitment process while maintaining high accuracy in candidate-job matching. By automating job classification, the system significantly reduces manual effort, accelerates hiring timelines, and enhances the objectivity of candidate selection. Ultimately, the project aims to streamline hiring workflows, enabling recruiters to efficiently identify top candidates and improve the overall recruitment experience.
 
 ---
+## 🧠 Algorithms Used
+### 📊 Machine Learning Algorithms
+- Logistic Regression
+- Random Forest
+- XGBoost
+- Naïve Bayes
+
+### 🔥 Deep Learning Algorithms
+- LSTM (Long Short-Term Memory)
+- MLP (MultiLayer Perceptron)
+- CNN (Convolutional Neural Network)
+
+### 🤖 Language Models
+- BERT (Bidirectional Encoder Representations from Transformers)
+- RoBERTa
+
+---
