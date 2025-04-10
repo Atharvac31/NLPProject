@@ -18,6 +18,15 @@ By employing TF-IDF vectorization for text representation and Cosine Similarity 
 This lightweight yet effective NLP approach ensures a fast and scalable recruitment process while maintaining high accuracy in candidate-job matching. By automating job classification, the system significantly reduces manual effort, accelerates hiring timelines, and enhances the objectivity of candidate selection. Ultimately, the project aims to streamline hiring workflows, enabling recruiters to efficiently identify top candidates and improve the overall recruitment experience.
 
 ---
+
+
+## 📚 Acknowledgements
+We would like to express our sincere gratitude to:
+- 📖 **Theory Faculty:** Dhiraj Amin, Sharvari Govilkar  
+- 💻 **Lab Faculty:** Dhiraj Amin, Neha Ashok, Shubhangi Chavan  
+- 🎓 **Pillai College of Engineering** for their continuous support and resources.
+
+---
 ## 🧠 Algorithms Used
 ### 📊 Machine Learning Algorithms
 - Logistic Regression
@@ -147,6 +156,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Voice-Based Job Matching
 - IAI-Powered Career Guidance
 - Real-Time Market Trend Analysis
+
+
 
 **🌟 Contributors**:  
 Prem Bonde, Atharva Chourikar, Lavanya Chilivery , Ujwal Ahaluwaliya 
