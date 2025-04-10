@@ -58,6 +58,8 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 | SVM                 | All-Features   | 0.300          |
 | Random Forest       | All-Features   | 0.860          |
 
+
+### TASK 1
 ### Confusion Matrix - Naive Bayes (TF-IDF)
 ![Confusion Matrix - Naive Bayes (TF-IDF)](images/naive_bayes.png)
 
@@ -70,17 +72,26 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 ### Confusion Matrix - SVM (TF-IDF)
 ![Confusion Matrix - SVM (TF-IDF)](images/Svm.png)
 
+### TASK 2
+
 ### Confusion Matrix - LSTM 
-![Confusion Matrix - SVM (TF-IDF)](images/lstm.jpg)
-
-### Confusion Matrix - BERT 
-![Confusion Matrix - SVM (TF-IDF)](images/bert.jpg)
-
-### Confusion Matrix - RoBERTa 
-![Confusion Matrix - SVM (TF-IDF)](images/roberta.jpg)
+![Confusion Matrix - LSTM ](images/lstm.jpg)
 
 ### Confusion Matrix - CNN 
-![Confusion Matrix - SVM (TF-IDF)](images/cnn.jpg)
+![Confusion Matrix - CNN](images/cnn.jpg)
+
+### Confusion Matrix - MLP 
+![Confusion Matrix - MLP ](images/mlp.jpg)
+
+
+### TASK 3
+
+### Confusion Matrix - BERT 
+![Confusion Matrix - bert](images/bert.jpg)
+
+### Confusion Matrix - RoBERTa 
+![Confusion Matrix - roberta ](images/roberta.jpg)
+
 
 ### 📊 Real-World Model Performance
 
