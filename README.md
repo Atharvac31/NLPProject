@@ -70,5 +70,16 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 ### Confusion Matrix - SVM (TF-IDF)
 ![Confusion Matrix - SVM (TF-IDF)](images/Svm.png)
 
+### 📊 Real-World Model Performance
+
+| Model               | Features | Accuracy   |
+|--------------------|----------|------------|
+| Naive Bayes         | TF-IDF   | 0.533333   |
+| Logistic Regression | TF-IDF   | 0.533333   |
+| SVM                 | TF-IDF   | 0.600000   |
+| Random Forest       | TF-IDF   | 0.666667   |
+
+### Validation
+![Validation](images/validation.png)
 
 ---
