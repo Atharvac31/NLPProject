@@ -11,6 +11,15 @@ This project is part of the Natural Language Processing (NLP) course for Semeste
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+
+## 📚 Acknowledgements
+We would like to express our sincere gratitude to:
+- 📖 **Theory Faculty:** Dhiraj Amin, Sharvari Govilkar  
+- 💻 **Lab Faculty:** Dhiraj Amin, Neha Ashok, Shubhangi Chavan  
+- 🎓 **Pillai College of Engineering** for their continuous support and resources.
+
+---
+
 Classifying job descriptions and candidate profiles based on relevance. This classification helps recruiters and hiring managers identify the best matches between job openings and candidates, ensuring efficient hiring processes.
 ## 🎯 Project Abstract
 The recruitment process often involves manually matching job descriptions with candidate profiles, a task that can be time-consuming and prone to inefficiencies. This project seeks to develop a Natural Language Processing (NLP)- based job matching system designed to automate the classification of job descriptions and candidate profiles based on their relevance. The system analyzes and compares the textual content of job descriptions and candidate qualifications—including skills, education, and experience—to identify the best matches, improving the efficiency of the hiring process.
@@ -20,13 +29,6 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 ---
 
 
-## 📚 Acknowledgements
-We would like to express our sincere gratitude to:
-- 📖 **Theory Faculty:** Dhiraj Amin, Sharvari Govilkar  
-- 💻 **Lab Faculty:** Dhiraj Amin, Neha Ashok, Shubhangi Chavan  
-- 🎓 **Pillai College of Engineering** for their continuous support and resources.
-
----
 ## 🧠 Algorithms Used
 ### 📊 Machine Learning Algorithms
 - Logistic Regression
