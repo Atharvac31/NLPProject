@@ -58,6 +58,17 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 | SVM                 | All-Features   | 0.300          |
 | Random Forest       | All-Features   | 0.860          |
 
+### Confusion Matrix - Naive Bayes (TF-IDF)
 ![Confusion Matrix - Naive Bayes (TF-IDF)](images/naive_bayes.png)
+
+### Confusion Matrix - Logistic_Regression (TF-IDF)
+![Confusion Matrix - Logistic Regression (TF-IDF)](images/logistic_regression.png)
+
+### Confusion Matrix - Random Forest (TF-IDF)
+![Confusion Matrix - Logistic Regression (TF-IDF)](images/random_forest.png)
+
+### Confusion Matrix - SVM (TF-IDF)
+![Confusion Matrix - SVM (TF-IDF)](images/Svm.png)
+
 
 ---
