@@ -34,4 +34,26 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 - BERT (Bidirectional Encoder Representations from Transformers)
 - RoBERTa
 
+### 📝 Model Performance on Amazon Dataset
+                   Model      Features  Test Accuracy
+0           Naive Bayes        TF-IDF          0.875
+1   Logistic Regression        TF-IDF          0.885
+2                   SVM        TF-IDF          0.885
+3         Random Forest        TF-IDF          0.850
+4           Naive Bayes           BoW          0.885
+5   Logistic Regression           BoW          0.885
+6                   SVM           BoW          0.885
+7         Random Forest           BoW          0.870
+8           Naive Bayes  NLP-Features          0.295
+9   Logistic Regression  NLP-Features          0.445
+10                  SVM  NLP-Features          0.420
+11        Random Forest  NLP-Features          0.380
+12          Naive Bayes    TF-IDF+NLP          0.875
+13  Logistic Regression    TF-IDF+NLP          0.885
+14                  SVM    TF-IDF+NLP          0.300
+15        Random Forest    TF-IDF+NLP          0.855
+16          Naive Bayes  All-Features          0.885
+17  Logistic Regression  All-Features          0.885
+18                  SVM  All-Features          0.300
+19        Random Forest  All-Features          0.860
 ---
