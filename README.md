@@ -70,6 +70,18 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 ### Confusion Matrix - SVM (TF-IDF)
 ![Confusion Matrix - SVM (TF-IDF)](images/Svm.png)
 
+### Confusion Matrix - LSTM 
+![Confusion Matrix - SVM (TF-IDF)](images/lstm.jpg)
+
+### Confusion Matrix - BERT 
+![Confusion Matrix - SVM (TF-IDF)](images/bert.jpg)
+
+### Confusion Matrix - RoBERTa 
+![Confusion Matrix - SVM (TF-IDF)](images/roberta.jpg)
+
+### Confusion Matrix - CNN 
+![Confusion Matrix - SVM (TF-IDF)](images/cnn.jpg)
+
 ### 📊 Real-World Model Performance
 
 | Model               | Features | Accuracy   |
