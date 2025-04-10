@@ -34,7 +34,7 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 - BERT (Bidirectional Encoder Representations from Transformers)
 - RoBERTa
 
-### 📝 Model Performance on Amazon Dataset
+### 📝 Model Performance
 | Model               | Features       | Test Accuracy |
 |--------------------|----------------|----------------|
 | Naive Bayes         | TF-IDF         | 0.875          |
