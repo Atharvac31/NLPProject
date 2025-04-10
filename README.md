@@ -141,14 +141,12 @@ The comparative analysis of various models highlighted the strengths and limitat
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 ---
-
 ## 💡 Future Enhancements
-
--Enhanced Semantic Matching 
--Multi-Language Support
--Voice-Based Job Matching 
--AI-Powered Career Guidance 
--Real-Time Market Trend Analysis 
+- Enhanced Semantic Matching
+- Multi-Language Support
+- Voice-Based Job Matching
+- IAI-Powered Career Guidance
+- Real-Time Market Trend Analysis
 
 **🌟 Contributors**:  
 Prem Bonde, Atharva Chourikar, Lavanya Chilivery , Ujwal Ahaluwaliya 
