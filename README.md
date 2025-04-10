@@ -72,6 +72,17 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 ### Confusion Matrix - SVM (TF-IDF)
 ![Confusion Matrix - SVM (TF-IDF)](images/Svm.png)
 
+### 📘 Traditional ML Models Performance (TF-IDF)
+
+| Model                          | Accuracy | Precision | Recall | F1 Score |
+|--------------------------------|----------|-----------|--------|----------|
+| XGBoost (TF-IDF)              | 0.8363   | 0.82      | 0.83   | 0.8363   |
+| Logistic Regression (TF-IDF)  | 0.8700   | 0.84      | 0.86   | 0.8700   |
+| Random Forest (TF-IDF)        | 0.8588   | 0.83      | 0.85   | 0.8588   |
+| Naive Bayes (TF-IDF)          | 0.8300   | 0.78      | 0.81   | 0.8298   |
+
+
+
 ### TASK 2 Deep Learning Algorithm
 
 ### Confusion Matrix - LSTM 
@@ -83,6 +94,14 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 ### Confusion Matrix - MLP 
 ![Confusion Matrix - MLP ](images/mlp.jpg)
 
+### 🤖 Deep Learning Models Performance
+
+| Model | Accuracy | Precision | Recall | F1 Score |
+|-------|----------|-----------|--------|----------|
+| MLP   | 0.34     | 0.42      | 0.34   | 0.37     |
+| LSTM  | 0.40     | 0.52      | 0.48   | 0.50     |
+| CNN   | 0.45     | 0.56      | 0.53   | 0.54     |
+
 
 ### TASK 3 Language models
 
@@ -91,6 +110,14 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 
 ### Confusion Matrix - RoBERTa 
 ![Confusion Matrix - roberta ](images/roberta.jpg)
+
+### 🧠 Transformer Models Performance
+
+| Model   | Accuracy | Precision | Recall | F1 Score |
+|---------|----------|-----------|--------|----------|
+| BERT    | 0.885    | 0.8866    | 0.885  | 0.8847   |
+| RoBERTa | 0.885    | 0.8866    | 0.885  | 0.8847   |
+
 
 
 ### 📊 Real-World Model Performance
@@ -105,4 +132,24 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 ### Validation
 ![Validation](images/validation.png)
 
+---
+
+## 🏁 Conclusion
+This project successfully implemented Natural Language Processing (NLP) techniques to automate the matching of job descriptions with candidate resumes. Using a combination of Machine Learning (ML), Deep Learning (DL), and Transformer-based models like BERT and RoBERTa, the system effectively classified and ranked candidate profiles based on relevance.
+The comparative analysis of various models highlighted the strengths and limitations of each approach, enabling the selection of the most optimal model for candidate-job matching. The ranked recommendations provide actionable insights that help recruiters streamline the hiring process and improve candidate selection.
+
+## 📝 License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+---
+
+## 💡 Future Enhancements
+
+-Enhanced Semantic Matching 
+-Multi-Language Support
+-Voice-Based Job Matching 
+-AI-Powered Career Guidance 
+-Real-Time Market Trend Analysis 
+
+**🌟 Contributors**:  
+Prem Bonde, Atharva Chourikar, Lavanya Chilivery , Ujwal Ahaluwaliya 
 ---
