@@ -59,7 +59,7 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 | Random Forest       | All-Features   | 0.860          |
 
 
-### TASK 1
+### TASK 1 Machine Learning Algorithms
 ### Confusion Matrix - Naive Bayes (TF-IDF)
 ![Confusion Matrix - Naive Bayes (TF-IDF)](images/naive_bayes.png)
 
@@ -72,7 +72,7 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 ### Confusion Matrix - SVM (TF-IDF)
 ![Confusion Matrix - SVM (TF-IDF)](images/Svm.png)
 
-### TASK 2
+### TASK 2 Deep Learning Algorithm
 
 ### Confusion Matrix - LSTM 
 ![Confusion Matrix - LSTM ](images/lstm.jpg)
@@ -84,7 +84,7 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 ![Confusion Matrix - MLP ](images/mlp.jpg)
 
 
-### TASK 3
+### TASK 3 Language models
 
 ### Confusion Matrix - BERT 
 ![Confusion Matrix - bert](images/bert.jpg)
