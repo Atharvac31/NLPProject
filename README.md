@@ -58,6 +58,6 @@ This lightweight yet effective NLP approach ensures a fast and scalable recruitm
 | SVM                 | All-Features   | 0.300          |
 | Random Forest       | All-Features   | 0.860          |
 
-![Confusion Matrix - Naive Bayes (TF-IDF)](images/naive bayes(tf idf).png)
+![Confusion Matrix - Naive Bayes (TF-IDF)](images/naivebayes(tfidf).png)
 
 ---
